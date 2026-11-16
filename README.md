@@ -1,7 +1,7 @@
-# Sqrock Alpha 2 — Cybersecurity Internship (Phase 2)
+# Sqrock Alpha 2 Cybersecurity Internship (Phase 2)
 
 **Track:** Web Application Security & Defensive Automation  
-**Duration:** 15 days — Internship Days 16–30  
+**Duration:** 15 days Internship Days 16–30  
 **Prepared by:** Christian Adam Anilbhai
 
 ## About
@@ -38,19 +38,4 @@ Each `Day_XX` folder contains a README with the task focus and space to document
 - Use fictional or anonymized sample data in reports and screenshots.
 - Clearly label simulated actions; do not claim that simulated firewall blocks, webhooks, or host isolation changed real systems.
 
-## Progress
-- [x] Day 16 — HTTP Security Header Analysis
-- [ ] Day 17 — Local Network Port & Service Scanning
-- [ ] Day 18 — SQL Injection (SQLi) Log Detection Engine
-- [ ] Day 19 — Docker Container Misconfiguration Scanner
-- [ ] Day 20 — Web Directory Brute-Force Simulation
-- [ ] Day 21 — Cross-Site Scripting (XSS) Payload Sanitizer
-- [ ] Day 22 — API Rate Limiting Token Bucket Logic
-- [ ] Day 23 — Postgres Database Credential Auditing
-- [ ] Day 24 — Automated Threat Intel IP Blocking Pipeline
-- [ ] Day 25 — File Upload Vulnerability & Magic Bytes Validator
-- [ ] Day 26 — Building a Custom Web Application Firewall (WAF) Engine
-- [ ] Day 27 — Automated Vulnerability Report Aggregator
-- [ ] Day 28 — SIEM Alert Trigger Automation via Webhooks
-- [ ] Day 29 — Incident Containment & Asset Isolation Scripting
-- [ ] Day 30 — Final Project: Automated Web Vulnerability Scanner
+

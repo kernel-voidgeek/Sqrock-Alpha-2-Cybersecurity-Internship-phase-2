@@ -1,0 +1,12 @@
+DAY 17 - LOCAL PORT SCAN REPORT
+Target: 127.0.0.1
+Date: 2026-11-17 22:28:27.178737
+
+Port 22 | ssh | CLOSED/FILTERED
+Port 80 | http | CLOSED/FILTERED
+Port 443 | https | CLOSED/FILTERED
+Port 5432 | Unknown | CLOSED/FILTERED
+Port 8080 | Unknown | CLOSED/FILTERED
+Port 8000 | Unknown | CLOSED/FILTERED
+
+Open ports: 0

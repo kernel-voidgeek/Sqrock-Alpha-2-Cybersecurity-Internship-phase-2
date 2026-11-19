@@ -1,0 +1,18 @@
+DAY 19 - DOCKER SECURITY AUDIT REPORT
+Scan Time: 2026-11-19 15:08:25.507878
+============================================================
+
+[MEDIUM] Unpinned latest image tag
+Line: 2
+Details: Image 'python:latest' uses the latest tag.
+------------------------------------------------------------
+[HIGH] SSH port exposure
+Line: 8
+Details: Dockerfile exposes port 22.
+------------------------------------------------------------
+[HIGH] Missing USER instruction
+Line: -
+Details: No explicit USER instruction was found.
+------------------------------------------------------------
+
+Total findings: 3

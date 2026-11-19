@@ -1,0 +1,18 @@
+DAY 18 - SQLi DETECTION REPORT
+Scan Time: 2026-11-18 11:35:54.010376
+=================================================================
+
+[SUSPICIOUS ACTIVITY]
+Source IP: 10.0.4.12
+Line Number: 2
+Detected Patterns: OR-based SQL Injection
+Log Entry: 10.0.4.12 - "POST /auth/login?user=admin%27%20OR%20%271%27=%271 HTTP/1.1" 401
+-----------------------------------------------------------------
+[SUSPICIOUS ACTIVITY]
+Source IP: 172.16.5.9
+Line Number: 3
+Detected Patterns: UNION SELECT, SQL Comment Sequence
+Log Entry: 172.16.5.9 - "GET /search?q=UNION%20SELECT%20null,password%20FROM%20users-- HTTP/1.1" 500
+-----------------------------------------------------------------
+
+Total suspicious entries: 2
